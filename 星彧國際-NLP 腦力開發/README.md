@@ -1,4 +1,4 @@
-## [十大建設](http://exe.hssh.tp.edu.tw/1021/s9/s912/7-1.htm)
+## 十大建設 ([介紹1](https://www.nani.com.tw/nani/jlearn/soci/extra/b/b2_1.htm), [介紹2](http://exe.hssh.tp.edu.tw/1021/s9/s912/7-1.htm))
 - 心臟
   - 中正國際機場（今臺灣桃園國際機場）
 - 血管
