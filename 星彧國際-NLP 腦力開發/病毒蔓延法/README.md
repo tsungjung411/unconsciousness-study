@@ -23,7 +23,7 @@
 ### 12 個物件
 - 十二生肖
   - 鼠牛虎兔 / 龍蛇馬羊 / 猴雞狗豬
-- 秦始皇事蹟 ([歷史上兇殘暴君](https://kknews.cc/zh-tw/history/zm56g9l.html))
+- 秦始皇事蹟 ([歷史上兇殘暴君?](https://kknews.cc/zh-tw/history/zm56g9l.html))
   1. 興建阿房宮
   2. 修築長城
   3. 普遍徵兵
