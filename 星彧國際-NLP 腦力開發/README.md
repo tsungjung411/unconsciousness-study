@@ -5,11 +5,11 @@
   - 動脈(流速快)：[鐵路電氣化](https://zh.wikipedia.org/wiki/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD#%E9%90%B5%E8%B7%AF%E9%9B%BB%E6%B0%A3%E5%8C%96)
   - 靜脈(流速慢)：[南北高速公路 → 西元1979：中山高速公路）](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF)
 - **器官/組織**
-  - 北:新北
+  - 北：新北
     - [(第一)核能發電廠](https://goo.gl/maps/aDQV6TmMBfaefi7J9)
-  - 中:台中
+  - 中：台中
     - [台中港](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E4%B8%AD%E6%B8%AF)
-  - 南:高雄
+  - 南：高雄
     - [中國造船公司 高雄總廠 / 中船 / 大造船廠](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E9%80%A0%E8%88%B9)
     - [中國鋼鐵公司 / 中鋼 / 大煉鋼廠](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5)
     - 中國石油公司 高雄煉油總廠 / 中油 / 石油化學工業
