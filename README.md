@@ -26,6 +26,7 @@
   - [上萬元「追女術」教你脫魯 學員控：完全沒用](https://www.ftvnews.com.tw/news/detail/2017905L11M1)
     > 甚至控訴老師自稱台大博士，擁有多張NLP學歷，攏是假，已向公平會檢舉廣告不實
     - https://disp.cc/b/163-aeeA
+    - [臺灣博碩士論文知識加值系統](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge) 查無此人
     
   - [[分享] 把妹課程常見詐術](https://www.ptt.cc/bbs/CATCH/M.1518999027.A.FD7.html)
     >(防騙小技巧：即使免費講座讓你覺得有收穫，但不代表正式課程就會有收穫)
