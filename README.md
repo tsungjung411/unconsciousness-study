@@ -25,3 +25,5 @@
 ## 記憶培訓的新聞
   - [上萬元「追女術」教你脫魯 學員控：完全沒用](https://www.ftvnews.com.tw/news/detail/2017905L11M1)
     > 甚至控訴老師自稱台大博士，擁有多張NLP學歷，攏是假，已向公平會檢舉廣告不實
+    - https://pttread.com/catch/m-1504894365-a-502
+    - https://disp.cc/b/163-aeeA
